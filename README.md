@@ -1,7 +1,7 @@
 # DataStructures-NumNodes-LinkAllocation
 
 Mike Ogrysko<br>
-Data Structures 605.202<br>
+Data Structures 605.202 - JHU MS Data Science program<br>
 Lab 3 - AdjMatrix<br>
 
 java version "1.8.0_121"<br>
