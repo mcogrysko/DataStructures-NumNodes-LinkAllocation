@@ -1,0 +1,9 @@
+Mike Ogrysko
+java AdjMatrix "PathsGraphInputMissingSizes.txt" "PathsGraphOutputMissingSizes.txt"
+Reading "PathsGraphInputMissingSizes.txt" and writing to "PathsGraphOutputMissingSizes.txt"
+
+
+Adjacency List Paths: 
+
+
+Matrix size must be 2 or greater. Stopping...Please revisit input.

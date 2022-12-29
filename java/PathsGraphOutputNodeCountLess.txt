@@ -1,0 +1,17 @@
+Mike Ogrysko
+java AdjMatrix "PathsGraphInputNodeCountLess.txt" "PathsGraphOutputNodeCountLess.txt"
+Reading "PathsGraphInputNodeCountLess.txt" and writing to "PathsGraphOutputNodeCountLess.txt"
+
+Matrix #1
+Matrix Size: 4, Columns: 4, Rows: 4
+Matrix #1 is square.
+
+Matrix #2
+Matrix Size: 6, Columns: 3, Rows: 6
+Matrix #2 is not square. The number of rows is greater than the number of columns.
+
+Matrix #3
+Matrix Size: 3, Columns: 3, Rows: 3
+Matrix #3 is square.
+
+Stopping application. Check input file.

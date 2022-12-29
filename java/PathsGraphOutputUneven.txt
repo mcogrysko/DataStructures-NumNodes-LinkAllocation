@@ -1,0 +1,15 @@
+Mike Ogrysko
+java AdjMatrix "PathsGraphInputUneven.txt" "PathsGraphOutputUneven.txt"
+Reading "PathsGraphInputUneven.txt" and writing to "PathsGraphOutputUneven.txt"
+
+Matrix #2
+Matrix Size: 6, Columns: 4, Rows: 6
+Matrix #2 is not square. The number of rows is greater than the number of columns.
+
+Matrix #3
+Matrix Size: 3, Columns: 3, Rows: 3
+Matrix #3 is square.
+
+There should be 3 matrices in the input. The number of rows in one may be less than the specified size.
+
+Stopping application. Check input file.

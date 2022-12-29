@@ -1,0 +1,324 @@
+Mike Ogrysko
+java AdjMatrix "PathsGraphInputNone10wLoopTest.txt" "PathsGraphOutputNone10wLoopTest.txt"
+Reading "PathsGraphInputNone10wLoopTest.txt" and writing to "PathsGraphOutputNone10wLoopTest.txt"
+
+Matrix #1
+Matrix Size: 10, Columns: 10, Rows: 10
+Matrix #1 is square.
+
+
+Adjacency List Paths: 
+
+
+10
+1 0 0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 1 
+
+
+Paths from 1 to 1:
+No Path Found
+
+Paths from 1 to 2:
+No Path Found
+
+Paths from 1 to 3:
+No Path Found
+
+Paths from 1 to 4:
+No Path Found
+
+Paths from 1 to 5:
+No Path Found
+
+Paths from 1 to 6:
+No Path Found
+
+Paths from 1 to 7:
+No Path Found
+
+Paths from 1 to 8:
+No Path Found
+
+Paths from 1 to 9:
+No Path Found
+
+Paths from 1 to 10:
+No Path Found
+
+Paths from 2 to 1:
+No Path Found
+
+Paths from 2 to 2:
+No Path Found
+
+Paths from 2 to 3:
+No Path Found
+
+Paths from 2 to 4:
+No Path Found
+
+Paths from 2 to 5:
+No Path Found
+
+Paths from 2 to 6:
+No Path Found
+
+Paths from 2 to 7:
+No Path Found
+
+Paths from 2 to 8:
+No Path Found
+
+Paths from 2 to 9:
+No Path Found
+
+Paths from 2 to 10:
+No Path Found
+
+Paths from 3 to 1:
+No Path Found
+
+Paths from 3 to 2:
+No Path Found
+
+Paths from 3 to 3:
+No Path Found
+
+Paths from 3 to 4:
+No Path Found
+
+Paths from 3 to 5:
+No Path Found
+
+Paths from 3 to 6:
+No Path Found
+
+Paths from 3 to 7:
+No Path Found
+
+Paths from 3 to 8:
+No Path Found
+
+Paths from 3 to 9:
+No Path Found
+
+Paths from 3 to 10:
+No Path Found
+
+Paths from 4 to 1:
+No Path Found
+
+Paths from 4 to 2:
+No Path Found
+
+Paths from 4 to 3:
+No Path Found
+
+Paths from 4 to 4:
+No Path Found
+
+Paths from 4 to 5:
+No Path Found
+
+Paths from 4 to 6:
+No Path Found
+
+Paths from 4 to 7:
+No Path Found
+
+Paths from 4 to 8:
+No Path Found
+
+Paths from 4 to 9:
+No Path Found
+
+Paths from 4 to 10:
+No Path Found
+
+Paths from 5 to 1:
+No Path Found
+
+Paths from 5 to 2:
+No Path Found
+
+Paths from 5 to 3:
+No Path Found
+
+Paths from 5 to 4:
+No Path Found
+
+Paths from 5 to 5:
+No Path Found
+
+Paths from 5 to 6:
+No Path Found
+
+Paths from 5 to 7:
+No Path Found
+
+Paths from 5 to 8:
+No Path Found
+
+Paths from 5 to 9:
+No Path Found
+
+Paths from 5 to 10:
+No Path Found
+
+Paths from 6 to 1:
+No Path Found
+
+Paths from 6 to 2:
+No Path Found
+
+Paths from 6 to 3:
+No Path Found
+
+Paths from 6 to 4:
+No Path Found
+
+Paths from 6 to 5:
+No Path Found
+
+Paths from 6 to 6:
+No Path Found
+
+Paths from 6 to 7:
+No Path Found
+
+Paths from 6 to 8:
+No Path Found
+
+Paths from 6 to 9:
+No Path Found
+
+Paths from 6 to 10:
+No Path Found
+
+Paths from 7 to 1:
+No Path Found
+
+Paths from 7 to 2:
+No Path Found
+
+Paths from 7 to 3:
+No Path Found
+
+Paths from 7 to 4:
+No Path Found
+
+Paths from 7 to 5:
+No Path Found
+
+Paths from 7 to 6:
+No Path Found
+
+Paths from 7 to 7:
+No Path Found
+
+Paths from 7 to 8:
+No Path Found
+
+Paths from 7 to 9:
+No Path Found
+
+Paths from 7 to 10:
+No Path Found
+
+Paths from 8 to 1:
+No Path Found
+
+Paths from 8 to 2:
+No Path Found
+
+Paths from 8 to 3:
+No Path Found
+
+Paths from 8 to 4:
+No Path Found
+
+Paths from 8 to 5:
+No Path Found
+
+Paths from 8 to 6:
+No Path Found
+
+Paths from 8 to 7:
+No Path Found
+
+Paths from 8 to 8:
+No Path Found
+
+Paths from 8 to 9:
+No Path Found
+
+Paths from 8 to 10:
+No Path Found
+
+Paths from 9 to 1:
+No Path Found
+
+Paths from 9 to 2:
+No Path Found
+
+Paths from 9 to 3:
+No Path Found
+
+Paths from 9 to 4:
+No Path Found
+
+Paths from 9 to 5:
+No Path Found
+
+Paths from 9 to 6:
+No Path Found
+
+Paths from 9 to 7:
+No Path Found
+
+Paths from 9 to 8:
+No Path Found
+
+Paths from 9 to 9:
+No Path Found
+
+Paths from 9 to 10:
+No Path Found
+
+Paths from 10 to 1:
+No Path Found
+
+Paths from 10 to 2:
+No Path Found
+
+Paths from 10 to 3:
+No Path Found
+
+Paths from 10 to 4:
+No Path Found
+
+Paths from 10 to 5:
+No Path Found
+
+Paths from 10 to 6:
+No Path Found
+
+Paths from 10 to 7:
+No Path Found
+
+Paths from 10 to 8:
+No Path Found
+
+Paths from 10 to 9:
+No Path Found
+
+Paths from 10 to 10:
+No Path Found

@@ -1,0 +1,94 @@
+Mike Ogrysko
+java AdjMatrix "PathsGraphInputNo5.txt" "PathsGraphOutputNo5.txt"
+Reading "PathsGraphInputNo5.txt" and writing to "PathsGraphOutputNo5.txt"
+
+Matrix #1
+Matrix Size: 5, Columns: 5, Rows: 5
+Matrix #1 is square.
+
+
+Adjacency List Paths: 
+
+
+5
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+
+
+Paths from 1 to 1:
+No Path Found
+
+Paths from 1 to 2:
+No Path Found
+
+Paths from 1 to 3:
+No Path Found
+
+Paths from 1 to 4:
+No Path Found
+
+Paths from 1 to 5:
+No Path Found
+
+Paths from 2 to 1:
+No Path Found
+
+Paths from 2 to 2:
+No Path Found
+
+Paths from 2 to 3:
+No Path Found
+
+Paths from 2 to 4:
+No Path Found
+
+Paths from 2 to 5:
+No Path Found
+
+Paths from 3 to 1:
+No Path Found
+
+Paths from 3 to 2:
+No Path Found
+
+Paths from 3 to 3:
+No Path Found
+
+Paths from 3 to 4:
+No Path Found
+
+Paths from 3 to 5:
+No Path Found
+
+Paths from 4 to 1:
+No Path Found
+
+Paths from 4 to 2:
+No Path Found
+
+Paths from 4 to 3:
+No Path Found
+
+Paths from 4 to 4:
+No Path Found
+
+Paths from 4 to 5:
+No Path Found
+
+Paths from 5 to 1:
+No Path Found
+
+Paths from 5 to 2:
+No Path Found
+
+Paths from 5 to 3:
+No Path Found
+
+Paths from 5 to 4:
+No Path Found
+
+Paths from 5 to 5:
+No Path Found
